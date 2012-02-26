@@ -1,0 +1,3 @@
+Change I271fd87c: libagl: Allow use of copybit to accelerate 2D rendering
+--------------------------------------------------------------------------
+http://review.cyanogenmod.com/#change,11167
