@@ -1,6 +1,5 @@
 Ethan Chen's Change Id43c677c: audio: set mRecordState in AudioInputStreamMSM72xx::set
-(http://review.cyanogenmod.com/#change,13527)
-	audio: set mRecordState in AudioInputStreamMSM72xx::set
+	http://review.cyanogenmod.com/#change,13527
 
 	This fixes audio input/recording, including voice dialer and
 	voice search.

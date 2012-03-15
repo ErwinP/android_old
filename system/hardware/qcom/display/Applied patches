@@ -1,11 +1,9 @@
-Change I2876c6a8: Copybit: Fix for source x and y calculation.
-(http://review.cyanogenmod.com/#change,12727)
-	The x and y coordinates are derived properly from clip and dest rect with this fix.
+Arne Coucheron's Change I2876c6a8: Copybit: Fix for source x and y calculation.
+	http://review.cyanogenmod.com/#change,12727
 
+	The x and y coordinates are derived properly from clip and dest rect with this fix.
 	- Even if rotation is involved, we need to start reading from the same point.
 	- Do scaling operation on the delta, and then add the source left and top values.
 	- If we scale the result of addition, we will not be reading source correctly.
-
 	CRs-fixed: 324782
 
-	Change-Id: I2876c6a8e48acbf03f80713338f9a17c57863aaa
