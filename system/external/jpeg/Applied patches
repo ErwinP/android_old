@@ -1,11 +1,11 @@
-Change Ia59f88e1: Switch to Linaro's libjpeg-turbo
+Arne Coucheron's Change Ia59f88e1: Switch to Linaro's libjpeg-turbo
 	http://review.cyanogenmod.com/#change,13293
 
 	Switch to Linaro's libjpeg-turbo
 	Ref http://git.linaro.org/gitweb?p=people/tomgall/libjpeg-turbo/libjpeg-turbo.git;a=summary
 	Change-Id: Ia59f88e1878ccdd21638aea136b9aa9c226dd9e7
 
-Change I9efdd2b7: Add ARMv6 support to libjpeg-turbo
+Arne Coucheron's I9efdd2b7: Add ARMv6 support to libjpeg-turbo
 	http://review.cyanogenmod.com/#change,13316
 
 	Add ARMv6 support to libjpeg-turbo
