@@ -1,3 +1,6 @@
 Change I271fd87c: libagl: Allow use of copybit to accelerate 2D rendering
 --------------------------------------------------------------------------
 http://review.cyanogenmod.com/#change,11167
+
+nebcat's patch for Electron Beam Animation (1/2 Frameworks)
+	http://review.cyanogenmod.com/#change,12959
